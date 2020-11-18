@@ -1,0 +1,12 @@
+
+*.a
+*.d
+*.o
+*.elf
+*.eep
+*.cache
+*.cpp
+*.h
+*.json
+*.with_bootloader.hex
+preproc/
