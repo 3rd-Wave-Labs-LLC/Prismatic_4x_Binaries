@@ -1,4 +1,7 @@
 # Using This repository
+
+First of all, *watch* and *star* this repository for all important releases. You can find those at the very top right of this page
+
 ## If you are familiar with Github:
 Clone this repository as you regularly would and pull when updates are pushed to this repository to keep everything up to date.
 
