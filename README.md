@@ -29,7 +29,7 @@ Plug in the controller to the computer using the usb port on the controller.
 
 Open the *XLoader.exe* within the XLoader folder
 
-1. Set the *Hex file* feild to the location of the provided **.hex** binary
+1. Set the *Hex file* field to the location of the provided **.hex** binary
 2. Set the *Device* to: **Mega(ATMEGA2560)**
 3. Set the *COM port* to the appropriate device. Should be listed in the drop down menu as COM followed by a number. 
 4. Set the *Baud Rate* field to: **115200**
