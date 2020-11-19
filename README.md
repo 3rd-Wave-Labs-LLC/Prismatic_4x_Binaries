@@ -52,7 +52,8 @@ After loading the settings file, you should see the correctly labeled fields und
 
 Connect your pc to the USB port on the front of the control box and from the HMI enable serial streaming
 
-Select the listing with the name containing **arduino** and click open
+Select the listing with the name containing **arduino** and click *open*
+If you don't see it listed, click the refresh button next to open.
 ![](https://i.imgur.com/wPrhj6v.png)
 
 Upon connecting, you will hear the controller restart. This is normal behavior. After a few seconds the data will start showing in the plot window.
