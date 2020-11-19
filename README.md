@@ -13,14 +13,14 @@ Extract the zip to a location of your choosing. Upon updates, the .hex file will
 
 ## Uploading the binary HEX file
 
-Included within this repository is Xloader which is a third party program that is is used to upload binary HEX files to the controller. XLoader can also be downloaded from its source [HERE](http://xloader.russemotto.com/)
+Included within this repository is Xloader which is a third party program that is is used to upload binary HEX files to the controller.
 
 Below are the steps to using Xloader:
 
-## Using XLoader
+### Using XLoader
 Xloader has 4 main input fields: Hex file, Device, COM port, and Baud rate
 
-![](http://www.hobbytronics.co.uk/image/data/tutorial/arduino_xloader/xloader.jpg)
+![](https://i.imgur.com/C8yEg6S.jpeg)
 
 Plug in the controller to the computer using the usb port on the controller.
 
@@ -31,3 +31,23 @@ Open the *XLoader.exe* within the XLoader folder
 3. Set the *COM port* to the appropriate device. Should be listed in the drop down menu as COM followed by a number. 
 4. Set the *Baud Rate* field to: **115200**
 5. Click upload
+
+## Using serial plot
+
+Under the [Serial Plot](https://github.com/wcschroe/Prismatic_4x_Binaries/tree/master/Serial%20Plot) folder you will find everything you need to install and use serial plot.
+
+### Installation
+
+Install serial plot using the [serialplot-0.11.0-win32.exe](https://github.com/wcschroe/Prismatic_4x_Binaries/blob/master/Serial%20Plot/serialplot-0.11.0-win32.exe)
+
+### Setup and Use
+
+After installing Serial Plot, load the proper settings from [Prismatic_logging_config.ini](https://github.com/wcschroe/Prismatic_4x_Binaries/blob/master/Serial%20Plot/Prismatic_logging_config.ini)
+
+![](https://i.imgur.com/WZUkBJS.png)
+![](https://i.imgur.com/QX3nE9o.png)
+
+Connect your pc to the USB port on the front of the control box and from the HMI enable serial streaming
+
+Select the listing with the name containing **arduino** and click open
+![](https://i.imgur.com/wPrhj6v.png)
