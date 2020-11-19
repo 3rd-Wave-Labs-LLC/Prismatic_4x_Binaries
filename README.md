@@ -45,9 +45,14 @@ Install serial plot using the [serialplot-0.11.0-win32.exe](https://github.com/w
 After installing Serial Plot, load the proper settings from [Prismatic_logging_config.ini](https://github.com/wcschroe/Prismatic_4x_Binaries/blob/master/Serial%20Plot/Prismatic_logging_config.ini)
 
 ![](https://i.imgur.com/WZUkBJS.png)
+
 ![](https://i.imgur.com/QX3nE9o.png)
+
+After loading the settings file, you should see under the plot tab at the bottom and at the bottom right of the plot window the correctly labeled fields.
 
 Connect your pc to the USB port on the front of the control box and from the HMI enable serial streaming
 
 Select the listing with the name containing **arduino** and click open
 ![](https://i.imgur.com/wPrhj6v.png)
+
+Upon connecting, you will hear the controller restart. This is normal behavior. After a few seconds the data will start showing in the plot window.
