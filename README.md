@@ -60,3 +60,11 @@ If you don't see it listed, click the refresh button next to open.
 ![](https://i.imgur.com/wPrhj6v.png)
 
 Upon connecting, you will hear the controller restart. This is normal behavior. After a few seconds the data will start showing in the plot window.
+
+# RS485 USB Dongle Driver (CH340)
+
+### [Driver](https://github.com/wcschroe/Prismatic_4x_Binaries/tree/master/CH340)
+
+Install this driver to be able to interface with our controller using the [minimalmobus](https://pypi.org/project/minimalmodbus/) python library.
+
+### [Example Python Interface Script](https://github.com/wcschroe/Prismatic_4x_Binaries/tree/master/Python/external.py)
