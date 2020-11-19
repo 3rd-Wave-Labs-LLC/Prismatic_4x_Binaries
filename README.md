@@ -48,7 +48,7 @@ After installing Serial Plot, load the proper settings from [Prismatic_logging_c
 
 ![](https://i.imgur.com/QX3nE9o.png)
 
-After loading the settings file, you should see under the plot tab at the bottom and at the bottom right of the plot window the correctly labeled fields.
+After loading the settings file, you should see the correctly labeled fields under the plot tab at the bottom and at the bottom right of the plot window.
 
 Connect your pc to the USB port on the front of the control box and from the HMI enable serial streaming
 
