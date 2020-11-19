@@ -3,7 +3,7 @@
 Clone this repository as you regularly would and pull when updates are pushed to this repository to keep everything up to date.
 
 ## If you are unfamiliar with Github:
-Simply click the green "clone or download" at the top right of the file list and download as a zip file.
+Simply click the green "code" at the top right of the file list and download as a zip file.
 
 Extract the zip to a location of your choosing. Upon updates, the .hex file will need to be replaced with the latest manually to avoid uploading an old version
 
