@@ -10,3 +10,4 @@
 *.json
 *.with_bootloader.hex
 preproc/
+Prismatic_4x.ino.with_bootloader.bin
